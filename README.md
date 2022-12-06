@@ -37,8 +37,7 @@ PythonData
 
 * Easy Ensemble AdaBoost Classifier Model:
 
-![https://github.com/feven27/Credit_Risk_Analysis/blob/main/image/Easy%20Ensemble%20Ada%20Boost%20Classifier.png](Easy Ensemble Ada Boost Classifier.png)
-
+![Easy Ensemble Ada Boost Classifier.png](https://github.com/feven27/Credit_Risk_Analysis/blob/main/image/Easy%20Ensemble%20Ada%20Boost%20Classifier.png)
 ## Summary 
 credit - risk is not an easy predict but we can see that easy ensemble adaboost has the highest accuracy. But Easy AdaBoost Classifier shows that there is high-risk (93%) and (93%). But overall i wouldnt recommend using this algorithms since the accuracy predict would lead to problem since the prediction is not accurate. 
 
