@@ -29,7 +29,7 @@ PythonData
 
 * Combination Sampling SMOTEEN Model:
 
-![Combination sampling SMOTEEN.png](https://github.com/feven27/Credit_Risk_Analysis/blob/main/image/Combination%20sampling%20SMOTEEN.png)
+![Combination sampling SMOTEEN.png](https://github.com/feven27/Credit_Risk_Analysis/blob/main/image/Easy%20Ensemble%20Ada%20Boost%20Classifier.png)
 
 * Balanced Random Forest Classifier Model:
 
